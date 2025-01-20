@@ -1,4 +1,3 @@
-# Leonardo Garcia Prinz
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -32,8 +31,7 @@
     <h1>Bem-vindo ao meu GitHub!</h1>
     <img src="https://seulinkdaimagem.com/foto.jpg" alt="Foto de Perfil">
 </body>
-</html>
-
+</html># Leonardo Garcia Prinz
 
 **`Analsta de Dados**
 
