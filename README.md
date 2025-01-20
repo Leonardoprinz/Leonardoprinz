@@ -26,7 +26,7 @@ Atualmente cursando Ciencias de dados na UNOPAR, Porem com 3 anos de experiencia
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 
-
+/>
 
 <img 
     align="left" 
