@@ -1,527 +1,176 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="author" content="Iuri Silva" />
-    <meta
-      name="description"
-      content="Meu nome é Iuri, desenvolvo interfaces modernas e de alta qualidade, concentrado em performance, animações, responsividade e SEO."
-    />
-    <meta
-      name="keywords"
-      content="sites, web, desenvolvimento, frontend, iuri silva, ui designer, programador, iuricode, front-end, designer, ui, iuri, freelancer, freela, website, portfólio"
-    />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#986DFF" />
-    <meta name="copyright" content="Iuri Silva 2021" />
-    <meta http-equiv="content-language" content="pt-br" />
-    <meta
-      property="og:image"
-      content="https://iuricode.com/assets/image/preview.png"
-    />
-    <meta property="og:title" content="Portfólio // Iuri Silva" />
-    <meta property="og:description" content="Portfólio // Iuri Silva" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link
-      rel="shortcut icon"
-      href="assets/image/logo-page.svg"
-      type="image/x-icon"
-    />
-    <link rel="icon" href="assets/image/logo-page.svg" />
-    <link rel="apple-touch-icon" href="assets/image/logo-page.svg" />
-    <link rel="canonical" href="https://iuricode.com/" />
-    <script src="assets/js/svg-inject.min.js"></script>
-    <title>Portfólio // Iuri Silva</title>
-  </head>
+# 👩🏻‍💻 Larissa Kich
 
-  <body>
-    <header>
-      <div class="grid-layout">
-        <nav>
-          <img
-            src="assets/image/logo-iuricode.svg"
-            alt="iuricode"
-            width="150px"
-            height="25px"
-          />
-          <div class="mobile-menu">
-            <div class="line1"></div>
-            <div class="line2"></div>
-            <div class="line3"></div>
-          </div>
-          <ul class="nav-list">
-            <li><a href="https://iuricode-blog.vercel.app/" rel="noopener" target="_blank">Blog</a></li>
-            <li><a href="https://iuricode-blog.vercel.app/setup" rel="noopener" target="_blank">Setup</a></li>
-            <li><a href="https://iuricode.com/efront/" rel="noopener" target="_blank">eBook</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+**`Desenvolvedora FullStack`**
 
-    <main>
-      <section id="s-home">
-        <div class="grid-layout">
-          <div id="home">
-            <div id="home-container-text">
-              <h1 class="delayMediumReveal">
-                Ajudando empresas a construírem
-                <span>produtos digitais</span> de forma moderna e de alta
-                qualidade.
-              </h1>
-              <p class="typewriter">
-                Uma mistura de Design, Desenvolvimento Frontend e habilidade
-                profissional que vão destacar seu produto no mercado.
-              </p>
+Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
-              <a
-                href="https://iuricode.com/efront/"
-                rel="noopener"
-                target="_blank"
-                class="delayExtraBigReveal"
-              >
-                Aprenda frontend comigo
-              </a>
-            </div>
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-            <img
-              src="assets/image/logo.svg"
-              alt="ìcone iuricode"
-              onload="SVGInject(this)"
-              id="logo"
-              width="500px"
-              height="500px"
-            />
-          </div>
-        </div>
-      </section>
+---
 
-      <section id="s-about">
-        <div class="grid-layout">
-          <div>
-            <div id="creator-photo" class="delayMediumReveal">
-              <h3 class="delayExtraBigReveal">Criador do eFront</h3>
-            </div>
-            <div>
-              <h4 class="delayMediumReveal">Quem sou</h4>
-              <h2 class="delaySmallReveal">Iuri Silva</h2>
-              <h3 class="delayMediumReveal">
-                Frontend Developer & UI Designer
-              </h3>
+### 🤖 Linguagens e Tecnologias
 
-              <p class="delayLargeReveal">
-                Meu nome é Iuri Silva, ou “iuricode” (é como me chamam agora)
-                sou o criador do eFront, um material de ensino de frontend pela
-                internet. Atualmente sou freelancer como Frontend Developer e UI
-                Designer. Desenvolvo interfaces modernas e de alta qualidade,
-                concentrado em performance, animações, responsividade e SEO.
-              </p>
-              <nav class="delayLargeReveal">
-                <ul>
-                  <a
-                    href="https://www.instagram.com/iuricode/"
-                    rel="noopener"
-                    target="_blank"
-                    ><li>
-                      <img
-                        src="./assets/icons/instagram.svg"
-                        alt="Ícone do Instagram"
-                        onload="SVGInject(this)"
-                      /></li
-                  ></a>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-                  <a
-                    href="https://www.linkedin.com/in/iuricode/"
-                    rel="noopener"
-                    target="_blank"
-                    ><li>
-                      <img
-                        src="./assets/icons/linkedin.svg"
-                        rel="noopener"
-                        alt="Ícone do LinkedIn"
-                        onload="SVGInject(this)"
-                      /></li
-                  ></a>
+<br/>
+<br/>
 
-                  <a
-                    href="https://iuricode-blog.vercel.app/"
-                    rel="noopener"
-                    target="_blank"
-                    ><li>
-                      <img
-                        src="./assets/icons/laptop.svg"
-                        alt="Ícone de um laptop"
-                        onload="SVGInject(this)"
-                      /></li
-                  ></a>
+### 📊 Estatísticas
 
-                  <a
-                    href="https://discord.gg/uHWE7QbXnp"
-                    rel="noopener"
-                    target="_blank"
-                    ><li>
-                      <img
-                        src="./assets/icons/discord.svg"
-                        alt="Ícone do Discord"
-                        onload="SVGInject(this)"
-                      /></li
-                  ></a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-                  <a
-                    href="https://github.com/iuricode"
-                    rel="noopener"
-                    target="_blank"
-                    ><li>
-                      <img
-                        src="./assets/icons/github.svg"
-                        alt="Ícone do GitHub"
-                        onload="SVGInject(this)"
-                      /></li
-                  ></a>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-                  <a
-                    href="https://www.behance.net/iuricode"
-                    rel="noopener"
-                    target="_blank"
-                    ><li>
-                      <img
-                        src="./assets/icons/behance.svg"
-                        alt="Ícone do Behance"
-                        onload="SVGInject(this)"
-                      /></li
-                  ></a>
-                </ul>
-              </nav>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section id="s-experience">
-        <div class="grid-layout">
-          <h2 class="delaySmallReveal">Experiências <span>.</span></h2>
-          <div id="experience">
-            <div
-              class="option-experience intervalCardReveal"
-              id="experience-company"
-            >
-              <div class="company digitalhouse activeExperience">
-                <h3>Digital House</h3>
-              </div>
-              <div class="company zuplae">
-                <h3>Zuplae</h3>
-              </div>
-              <div class="company contweb">
-                <h3>ContWeb</h3>
-              </div>
-              <div class="company codigofontetv">
-                <h3>Código Fonte TV</h3>
-              </div>
-            </div>
-            <div class="text-experience intervalCardReveal">
-              <div>
-                <h4 class="titleExperience">
-                  Professor conteudista em Frontend
-                </h4>
-                <p class="dateExperience">Nov 2021 - Nov 2022 (1 ano)</p>
-              </div>
-              <h5 class="companyExperience">Digital House</h5>
-              <p class="changeExperience">
-                Trabalhei como instrutor conteudista em frontend na Digital
-                House, o trabalho consistia em criar conteúdos para as aulas de
-                especialização frontend. Alguns temas dos conteúdos realizados
-                foram: React, Redux, TypeScript, Testes, GraphQL, Next.js, MUI,
-                React Hook Form e styled-components.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section id="s-projects">
-        <div class="grid-layout">
-          <h2 class="delaySmallReveal">Projetos <span>.</span></h2>
-          <div id="projects">
-            <article class="intervalCardReveal teslabank">
-              <h3>TeslaBank</h3>
-              <p>
-                Site institucional de banco digital, feito em HTML, Sass e
-                JavaScript.
-              </p>
-
-              <a
-                href="https://iuricode.com/teslabank/"
-                rel="noopener"
-                target="_blank"
-                id="teslabank"
-                >Visualizar projeto
-              </a>
-            </article>
-
-            <article class="intervalCardReveal naped">
-              <h3>Naped</h3>
-              <p>
-                Site de notícias nerd, feito em Next.js, TypeScript e
-                styled-components.
-              </p>
-
-              <a
-                href="https://efront-naped.vercel.app/"
-                rel="noopener"
-                target="_blank"
-                id="naped"
-                >Visualizar projeto
-              </a>
-            </article>
-
-            <article class="intervalCardReveal efront">
-              <h3>eFront</h3>
-              <p>
-                Página de vendas do eFront, feito em HTML, Sass e JavaScript.
-              </p>
-              <a
-                href="https://iuricode.com/efront"
-                rel="noopener"
-                target="_blank"
-                id="efront"
-                >Visualizar projeto
-              </a>
-            </article>
-
-            <article class="intervalCardReveal steam">
-              <h3>Steam</h3>
-              <p>Redesign da Steam, feito em HTML, Sass e JavaScript.</p>
-              <a
-                href="https://efront-steam.vercel.app/"
-                rel="noopener"
-                target="_blank"
-                id="steam"
-                >Visualizar projeto
-              </a>
-            </article>
-
-            <article class="intervalCardReveal none">
-              <h3>Em construção...</h3>
-              <p>
-                Pegue o café e espere um pouco, estou desenvolvendo o projeto.
-              </p>
-            </article>
-
-            <article class="intervalCardReveal none">
-              <h3>Em construção...</h3>
-              <p>
-                Pegue o café e espere um pouco, estou desenvolvendo o projeto.
-              </p>
-            </article>
-          </div>
-          <a
-            href="https://github.com/iuricode?tab=repositories"
-            rel="noopener"
-            target="_blank"
-            class="delayExtraBigReveal"
-            >Repositórios no GitHub</a
-          >
-        </div>
-      </section>
-
-      <section id="s-services">
-        <div class="grid-layout">
-          <h2 class="delaySmallReveal">Serviços <span>.</span></h2>
-          <div id="services">
-            <article class="intervalCardReveal">
-              <div>
-                <img
-                  src="assets/icons/icon-design.svg"
-                  width="100px"
-                  height="100px"
-                  alt="ícone layers"
-                />
-              </div>
-              <h3>UI Design</h3>
-              <p>
-                Desenho interface de forma que ela seja clara, objetiva e
-                principalmente intuitiva para o usuário.
-              </p>
-            </article>
-
-            <article class="intervalCardReveal">
-              <div>
-                <img
-                  src="assets/icons/icon-front.svg"
-                  width="100px"
-                  height="100px"
-                  alt="ícone código"
-                />
-              </div>
-              <h3>Desenvolvimento</h3>
-              <p>
-                Desenvolvo sites profissionais, blogs, portfólios, landing pages
-                e e-commerce.
-              </p>
-            </article>
-
-            <article class="intervalCardReveal">
-              <div>
-                <img
-                  src="assets/icons/icon-app-design.svg"
-                  width="100px"
-                  height="100px"
-                  alt="ícone imagem"
-                />
-              </div>
-              <h3>Motion</h3>
-              <p>
-                Crio interações que transmitem sensação de modernidade, além de
-                chamarem a atenção do usuário.
-              </p>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section id="s-skills">
-        <div class="grid-layout">
-          <div id="skills">
-            <article id="skills-text">
-              <h2 class="delaySmallReveal">Conhecimentos <span>.</span></h2>
-              <p class="delayMediumReveal changeDescription">
-                *passe o cursor do mouse no card para ler*
-              </p>
-            </article>
-
-            <div id="skills-cards">
-              <article class="html intervalCardReveal">
-                <img
-                  src="assets/icons/html.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do html"
-                />
-              </article>
-              <article class="css intervalCardReveal">
-                <img
-                  src="assets/icons/css.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do css"
-                />
-              </article>
-              <article class="js intervalCardReveal">
-                <img
-                  src="assets/icons/javascript.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do javascript"
-                />
-              </article>
-              <article class="sass intervalCardReveal">
-                <img
-                  src="assets/icons/sass.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do sass"
-                />
-              </article>
-              <article class="react intervalCardReveal">
-                <img
-                  src="assets/icons/react.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do react"
-                />
-              </article>
-              <article class="next intervalCardReveal">
-                <img
-                  src="assets/icons/next.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do next"
-                />
-              </article>
-              <article class="styled intervalCardReveal">
-                <img
-                  src="assets/icons/styled-components.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do styled"
-                />
-              </article>
-              <article class="tailwind intervalCardReveal">
-                <img
-                  src="assets/icons/tailwindcss.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do tailwind"
-                />
-              </article>
-
-              <article class="radix intervalCardReveal">
-                <img
-                  src="assets/icons/radix.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do radix"
-                />
-              </article>
-
-              <article class="typescript intervalCardReveal">
-                <img
-                  src="assets/icons/typescript.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do typescript"
-                />
-              </article>
-
-              <article class="storybook intervalCardReveal">
-                <img
-                  src="assets/icons/storybook.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do storybook"
-                />
-              </article>
-
-              <article class="cypress intervalCardReveal">
-                <img
-                  src="assets/icons/cypress.svg"
-                  width="60px"
-                  height="60px"
-                  alt="ícone do cypress"
-                />
-              </article>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <footer>
-        <div class="grid-layout">
-          <p>
-            Copyright © 2021
-            <a href="https://iuricode.com" rel="noopener" target="_blank">
-              iuricode.com.
-            </a>
-            Todos os direitos reservados.
-          </p>
-
-          <div>
-            <p>Powered by</p>
-            <img
-              src="./assets/icons/iuricode-logo-footer.svg"
-              alt="Logo iuricode"
-            />
-          </div>
-        </div>
-      </footer>
-    </main>
-
-    <script src="https://unpkg.com/scrollreveal@4.0.9/dist/scrollreveal.min.js"></script>
-    <script type="module" src="assets/js/main.js"></script>
-  </body>
-</html>
+</p>
