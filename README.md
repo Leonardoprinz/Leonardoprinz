@@ -78,3 +78,7 @@ Atualmente cursando Ciências de Dados na UNOPAR, porém com 3 anos de experiên
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPrinz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+ &#128210; ### Projétos
+
+
