@@ -49,6 +49,14 @@ Atualmente cursando Ciências de Dados na UNOPAR, porém com 3 anos de experiên
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true"
 />
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Excel-Workbook.png?raw=true"
+/>
 
 <br/>
 <br/>
